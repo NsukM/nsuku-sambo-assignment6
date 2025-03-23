@@ -51,7 +51,4 @@ Apply Agile methodology by converting system requirements into *user stories, pr
 
 ---
 
-## *Submission Guidelines*
-✅ *Upload all documentation to GitHub*.  
-✅ *Submit GitHub repository link on Blackboard LMS*.  
-✅ *Ensure GitHub Issues, Projects, and Milestones reflect this plan*.  
+
